@@ -54,3 +54,5 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 Link do pagina do PodCast
     https://www.notion.so/Podcast-Investe-Onde-17e455d83088802da702d7cc1b760180?pvs=4
+
+link do Audio editado no Capcut: https://www.capcut.com/capcut_pc_web/fission_receive?code=N3Mjhe88780310&lng=en
