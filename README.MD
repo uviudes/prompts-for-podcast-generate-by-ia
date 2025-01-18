@@ -48,11 +48,6 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 📚 Materiais
 
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
-
-Link do pagina do PodCast
-    https://www.notion.so/Podcast-Investe-Onde-17e455d83088802da702d7cc1b760180?pvs=4
+Link do pagina do PodCast: https://www.notion.so/Podcast-Investe-Onde-17e455d83088802da702d7cc1b760180?pvs=4
 
 link do Audio editado no Capcut: https://www.capcut.com/capcut_pc_web/fission_receive?code=N3Mjhe88780310&lng=en
