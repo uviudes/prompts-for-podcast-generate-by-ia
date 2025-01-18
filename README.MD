@@ -54,5 +54,3 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 Link do pagina do PodCast
     https://www.notion.so/Podcast-Investe-Onde-17e455d83088802da702d7cc1b760180?pvs=4
-
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
